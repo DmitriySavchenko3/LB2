@@ -28,7 +28,7 @@
 }
   
 .menu li a:hover {
-    color: white;       /* Убедитесь, что при наведении цвет также не изменяется */
+    color: white;       
     background-color: gray;
 }
 
